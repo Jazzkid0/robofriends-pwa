@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jazzkid0.github.io/robofriends",
+  "homepage": "https://jazzkid0.github.io/robofriends-pwa",
   "dependencies": {
     "gh-pages": "^4.0.0",
     "react": "^17.0.2",
