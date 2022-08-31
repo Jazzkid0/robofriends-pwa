@@ -19,9 +19,9 @@
     },
     {
       "src": "safari-pinned-tab.svg",
-      "sizes": "214x214",
-      "type": "image/svg",
-      "purpose": "maskable"
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
     }
   ],
   "start_url": "./index.html",
